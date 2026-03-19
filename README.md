@@ -1,6 +1,4 @@
 # Lab 08: Server-Side Rendering with Next.js
-**Student Name:** ____________________  
-**Date:** _______
 
 ## Overview
 This lab implements SSR, SSG, and ISR using Next.js.  
